@@ -80,4 +80,8 @@
             <version>${hive.version}</version>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 4cb9e690eea273120e5abde8872a8b6d975f7c08
